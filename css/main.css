@@ -1,0 +1,13 @@
+body {
+  background-color: aquamarine;
+}
+
+.main {
+  background-color: lightblue;
+}
+.main .main-heading {
+  font-size: 1.5rem;
+}
+.main .main-paragraph p {
+  font-size: 1.3 em;
+}
